@@ -50,9 +50,9 @@ php artisan serve
 + dan buka link yang tertera pada layar terminal
 
 ### Akun untuk masuk
-```
-# | username | password
-1 | admin | 12345678
-2 | manajer | 12345678
-3 | kasir | 123456789
-```
+| # | Username | Password  |
+| --|:--------:| ---------:|
+| 1 | admin    | 12345678  |
+| 2 | manajer  | 12345678  |
+| 3 | kasir    | 12345678  |
+
